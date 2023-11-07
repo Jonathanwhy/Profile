@@ -1,77 +1,87 @@
-h2{
-    color: #006400;
-    display:flex;
-    justify-content: center;
-  }
-  
-  .wrapper{
-    font-family:"Brush Script MT", cursive;
-    
-  }
-  
-  .title{
-    font-size:50px;
-    color:darkgreen;
-    display:flex;
-    justify-content: center
-  }
-  
-  .profile{
-    display:flex;
-    flex-direction:row;
-  }
-  
-  .bio{
-    color: #8FBC8F;
-    display:flex;
-    width:500px;
-    padding:25px;
-    border: 5px solid darkgreen;
-    margin:15px;
-  }
-  
-  .hobbies{
-    color: green;
-    display:flex;
-    width:500px;
-    padding:10px;
-    border: 5px solid darkgreen;
-    margin:15px;
-  }
-  
-  .contacts{
-    color: #556B2F;
-    display:flex;
-    width:500px;
-    padding:25px;
-    border: 5px solid darkgreen;
-    margin:15px;
-  }
-  
-  .Profilepicture{
-    color: #228B22;
-    display:flex;
-    width:500px;
-    padding:25px;
-    border: 5px solid darkgreen;
-    margin:15px;
-  }
-  
-  .photos{
-    color:#6B8E23;
-    display:flex;
-    width:500px;
-    padding:25px;
-  
-  }
-  
-  p{
-    display:flex;
-    padding:25px;
-  }
-  
-  img{
-    display:flex;
-    padding:25px;
-  }
-  
+h2 {
+  color: #006400;
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper {
+  font-family: "Brush Script MT", cursive;
+}
+
+.title {
+  font-size: 50px;
+  color: darkgreen;
+  display: flex;
+  justify-content: center;
+}
+
+.profile {
+  display: flex;
+  flex-direction: row;
+}
+
+.bio {
+  color: #8FBC8F;
+  display: flex;
+  width: 500px;
+  padding: 25px;
+  border: 5px solid darkgreen;
+  margin: 15px;
+}
+
+.hobbies {
+  color: green;
+  display: flex;
+  width: 500px;
+  padding: 10px;
+  border: 5px solid darkgreen;
+  margin: 15px;
+}
+
+.contacts {
+  color: #556B2F;
+  display: flex;
+  width: 500px;
+  padding: 25px;
+  border: 5px solid darkgreen;
+  margin: 15px;
+}
+
+.Profilepicture {
+  color: #228B22;
+  display: flex;
+  width: 500px;
+  padding: 25px;
+  border: 5px solid darkgreen;
+  margin: 15px;
+}
+
+.photos {
+  color: #6B8E23;
+  display: flex;
+  width: 500px;
+  padding: 25px;
+}
+
+p {
+  display: flex;
+  padding: 25px;
+}
+
+img {
+  display: flex;
+  padding: 25px;
+}
+
+.messagetitle {
+  display: flex;
+  color: darkgreen;
+  justify-content: center;
+}
+
+.message {
+  display: flex;
+  color: green;
+  justify-content: center;
+
+}
